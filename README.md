@@ -27,6 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 | ------------- |---------------| --------------|
 | Acebook <br> ([Github](https://github.com/Liatmoss/RaceToFirstPlaceBook))<br>([Heroku](https://acebook--letta.herokuapp.com/)) | Team project of building Facebook inspired social media website while focusing on agile practices and TDD. |  Ruby on Rails, PostgreSQL, Heroku, Travis CI, Bootstrap<br>Testing: Rspec, Capybara |
 | MakersBnB <br> ([Github](https://github.com/Liatmoss/Ruby-n-b)) | Team project of building property booking website. |  Ruby, Sinatra, PostgreSQL<br>Testing: Rspec, Capybara |
+| CFG Website <br> ([Github](https://github.com/Liatmoss/cfgProjectCake)) | Team project building a website. |  HTML, CSS, Bootstrap |
 
 ## Education
 
