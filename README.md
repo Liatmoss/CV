@@ -1,12 +1,10 @@
 ## Liat Moss
 
-Having taught primary school coding and robotics for six years, I decided that I wanted a new challenge. As a self-taught coder, I enjoyed finding creative solutions to problems and seeing my programs come to life.
+I have recently finished studying at Makers Academy completing their intensive developer bootcamp.
 
-I am currently studying at Makers Academy completing their twelve week intensive developer bootcamp. 
+Having taught for the last six years before changing careers, I have experience writing curriculum and developing workshops and learning materials for teachers and students in STEAM subjects. I also have experience coordinating events and computing clubs to get students, especially girls, interested in these subject areas. I have experience working with micro:bits and Raspberry Pi's in schools and at various events.
 
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### This Skill
 
@@ -27,10 +25,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (September 2019 to January 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- OOP, TDD, MVC, TDD
+- Agile/XP, Pair programming
+- Ruby, HTML, CSS, Ruby on Rails, JavaScript, Python
+- Rspec, Jasmine, Capybara, Unittest
+- SQL PostgreSQL
 
 #### Code First: Girls 'Professionals Introduction to Web Development HTML/CSS' (August 2019)
 
