@@ -1,9 +1,9 @@
-<a  href="https://www.linkedin.com/in/liat-moss-51a50b115/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
-<a  href="https://github.com/Liatmoss"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="50" height="42" width="42"></a>
-
-
+<p align="center">
 ## Liat Moss
 
+<a  href="https://www.linkedin.com/in/liat-moss-51a50b115/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<a  href="https://github.com/Liatmoss"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="50" height="42" width="42"></a>
+</p>
 I have recently finished studying at Makers Academy completing their intensive developer bootcamp.
 
 Having taught for the last six years before changing careers, I have experience writing curriculum and developing workshops and learning materials for teachers and students in STEAM subjects. I also have experience coordinating events and computing clubs to get students, especially girls, interested in these subject areas. I have experience working with micro:bits and Raspberry Pi's in schools and at various events.
