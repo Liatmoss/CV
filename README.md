@@ -6,7 +6,7 @@
 <div align="center">
 
 [Summary](#summary) |
-[Skills](#skills)
+[Skills](#skills) |
 [Projects](#projects) |
 [Education](#education) |
 [Experience](#experience) |
