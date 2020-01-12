@@ -22,27 +22,18 @@ Having taught for the last six years before changing careers, I have experience 
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+In my previous positions, good communication skills were vital. A large part of my job was working with children and adults to teach new concepts. I needed to make sure that the subject matter was presented clearly and that by the end of the session everything had been understood. While at Makers Academy I further developed this skill through the group projects and pair programming.
 
 ## Projects
 
 | Project       | Summary       | Technologies  |
 | ------------- |---------------| --------------|
-| Acebook <br> ([Github](https://github.com/Liatmoss/RaceToFirstPlaceBook))<br>([Heroku](https://acebook--letta.herokuapp.com/)) | Team project of building Facebook inspired social media website while focusing on agile practices and TDD. |  Ruby on Rails, PostgreSQL, Heroku, Travis CI, Bootstrap<br>Testing: Rspec, Capybara |
-| MakersBnB <br> ([Github](https://github.com/Liatmoss/Ruby-n-b)) | Team project of building property booking website. |  Ruby, Sinatra, PostgreSQL<br>Testing: Rspec, Capybara |
+| Bank Tech Test <br> ([Github](https://github.com/Liatmoss/bank_tech_test)) | Command line app allowing users to make deposits, withdrawals and print bank statements. Individual project completed in two days |  Ruby on Rails, PostgreSQL, Heroku, Travis CI, Bootstrap<br>Testing: Rspec, Capybara |
+| Acebook <br> ([Github](https://github.com/Liatmoss/RaceToFirstPlaceBook))<br>([Heroku](https://acebook--letta.herokuapp.com/)) | Team project of building Facebook inspired social media website while focusing on agile practices and TDD. First time using Ruby on Rails and project completed in two weeks |  Ruby on Rails, PostgreSQL, Heroku, Travis CI, Bootstrap<br>Testing: Rspec, Capybara |
+| Notes App <br> ([Github](https://github.com/Liatmoss/noteApp/tree/master/noteApp)) | Team project building a single page JavaScript website in one week with our own testing framework | JavaScript |
+| MakersBnB <br> ([Github](https://github.com/Liatmoss/Ruby-n-b)) | Team project of building property booking website. Project completed in one week |  Ruby, Sinatra, PostgreSQL<br>Testing: Rspec, Capybara |
 | CFG Website <br> ([Github](https://github.com/Liatmoss/cfgProjectCake)) | Team project building a website. |  HTML, CSS, Bootstrap |
 
 ## Education
@@ -79,4 +70,6 @@ While working at Menorah Primary School, I was the Computing Coordinator as well
 
 ## Interests
 
-Any cool stuff that makes you a super part of a software development team
+Hardware - I enjoy tinkering and building with hardware such as the Raspberry Pi, Micro:Bit and Adafruit's Gemma board. I create and design wearables based on these devices with LED's and sensors
+Travel - I try to experiencing as many new cultures, cities and countries as possible
+Cooking and Baking - In my spare time I like to try new recipes  
