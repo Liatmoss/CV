@@ -21,6 +21,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+## Projects
+
+| Project       | Summary       | Technologies  |
+| ------------- |---------------| --------------|
+| Acebook <br> ([Github](https://github.com/Liatmoss/RaceToFirstPlaceBook))<br>([Heroku](https://acebook--letta.herokuapp.com/)) | Team project of building Facebook inspired social media website while focusing on agile practices and TDD. |  Ruby on Rails, PostgreSQL, Heroku, Travis CI, Bootstrap<br>Testing: Rspec, Capybara |
+| MakersBnB <br> ([Github](https://github.com/Liatmoss/Ruby-n-b)) | Team project of building property booking website. |  Ruby, Sinatra, PostgreSQL<br>Testing: Rspec, Capybara |
+
 ## Education
 
 #### Makers Academy (September 2019 to January 2020)
