@@ -35,9 +35,9 @@ Working as part of a team I am comfortable being in a leadership position as wel
 | Project       | Summary       | Technologies  |
 | ------------- |---------------| --------------|
 | Bank Tech Test <br> ([Github](https://github.com/Liatmoss/bank_tech_test)) | Command line app allowing users to make deposits, withdrawals and print bank statements. Individual project completed in two days |  Ruby on Rails, PostgreSQL, Heroku, Travis CI, Bootstrap<br>Testing: Rspec |
-| Acebook <br> ([Github](https://github.com/Liatmoss/RaceToFirstPlaceBook))<br>([Heroku](https://acebook--letta.herokuapp.com/)) | Team project of building Facebook inspired social media website while focusing on agile practices and TDD. First time using Ruby on Rails and project completed in two weeks |  Ruby on Rails, PostgreSQL, Heroku, Travis CI, Bootstrap<br>Testing: Rspec, Capybara |
+| Acebook <br> ([Github](https://github.com/Liatmoss/RaceToFirstPlaceBook))<br>([Heroku](https://acebook--letta.herokuapp.com/)) | Team project building Facebook inspired social media website while focusing on agile practices and TDD. First time using Ruby on Rails and project completed in two weeks |  Ruby on Rails, PostgreSQL, Heroku, Travis CI, Bootstrap<br>Testing: Rspec, Capybara |
 | Notes App <br> ([Github](https://github.com/Liatmoss/noteApp/tree/master/noteApp)) | Team project building a single page JavaScript website in one week with our own testing framework | JavaScript |
-| MakersBnB <br> ([Github](https://github.com/Liatmoss/Ruby-n-b)) | Team project of building property booking website. Project completed in one week |  Ruby, Sinatra, PostgreSQL<br>Testing: Rspec, Capybara |
+| MakersBnB <br> ([Github](https://github.com/Liatmoss/Ruby-n-b)) | Team project building a property booking website. Project completed in one week as part of a team using TDD and agile practices |  Ruby, Sinatra, PostgreSQL<br>Testing: Rspec, Capybara |
 | CFG Website <br> ([Github](https://github.com/Liatmoss/cfgProjectCake)) | Team project building a website. |  HTML, CSS, Bootstrap |
 
 ## Education
@@ -63,6 +63,9 @@ Bachelor of Education, Early Childhood Education (Birth to Twelve)
 
 
 ## Experience
+
+**Freelance Consultant** (April 2019 - September 2019)    
+As a freelance education technology consultant, I worked with a variety of companies writing and facilitating coding and computing workshops and camps. This often involved ensuring teachers were familiar with the curriculum and were supported in teaching the required content.
 
 **Jewish Interactive** (August 2015 - April 2019)    
 *J-STEAM Director/Computing Lead*  
